@@ -1,0 +1,75 @@
+.footer {
+	background-color: #f5f5f5;
+}
+
+#toggleLogin{
+	padding-left:15px;
+}
+
+#loginAlert{
+	display:none;
+}
+
+#tweetSuccess{
+	display:none;
+}
+
+#tweetFail{
+	display:none;
+}
+
+#footer-email{
+	text-align:right;
+}
+
+.mainContainer{
+	padding:30px;
+	margin-top:30px;
+}
+
+.publicUsers{
+	color:white;
+}
+
+.time{
+	color:lightgrey;
+}
+
+.tweet{
+		border: 1px solid grey;
+		border-radius:5px;
+		padding:5px;
+		margin:5px;
+		background-color:white;
+}
+
+
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+  }
+
+ @media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+ }
+ 
+ html { 
+	background: url(background.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body{
+	background:none;
+}
+
+
+ 
